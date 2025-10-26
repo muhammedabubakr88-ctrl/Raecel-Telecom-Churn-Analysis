@@ -1,0 +1,45 @@
+Report on Raecel Telecom Churn Analysis
+
+Introduction
+
+This project focuses on analyzing customer churn at Raecel Telecom, a telecommunications company aiming to understand the reasons behind customer loss and improve customer retention strategies. The analysis was carried out using Python programming tools such as Pandas, Matplotlib, and Seaborn to explore, visualize, and interpret the data.
+
+Dataset Overview
+
+The dataset contains information about customers, including their demographic details, phone and international plans, call usage, account length, total charges, and the number of customer service calls. Each record also includes whether the customer has churned or remained with the company.
+
+Methodology
+
+The analysis began with data exploration to understand the structure and identify any missing values. Descriptive statistics were used to summarize the dataset. Visualizations such as bar charts and histograms were created to show the relationships between customer churn and variables like service calls, plans, and charges. Grouped summaries were also performed to compare churn rates across different customer categories.
+
+Findings
+
+The analysis revealed several key insights:
+
+Customers who made many customer service calls had a higher tendency to churn.
+
+Subscribers with international or long-distance plans showed slightly higher churn rates.
+
+Higher monthly charges were associated with increased churn probability.
+
+Customers with shorter account lengths were more likely to leave compared to long-term users.
+
+These findings suggest that dissatisfaction with customer service and high charges are major drivers of customer churn at Raecel Telecom.
+
+Recommendations
+
+Based on the findings, the following actions are recommended:
+
+1. Improve the quality and responsiveness of customer service. 
+
+2. Introduce loyalty or discount programs for long-term customers.
+
+3. Regularly monitor customers with high charges or frequent service complaints.
+
+4. Provide better communication and personalized offers to retain at-risk customers.
+
+Conclusion
+This project demonstrates how data analysis can help organizations make informed decisions. By understanding customer behavior through data, Raecel Telecom can design effective strategies to reduce churn and enhance customer satisfaction.
+
+Submitted by: Muhammed Abubakr
+Program: Cohort Data Science
